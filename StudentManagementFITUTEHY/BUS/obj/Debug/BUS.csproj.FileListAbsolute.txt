@@ -1,0 +1,13 @@
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\bin\Debug\BUS.dll
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\bin\Debug\BUS.pdb
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\bin\Debug\Common.dll
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\bin\Debug\DAO.dll
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\bin\Debug\DTO.dll
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\bin\Debug\Common.pdb
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\bin\Debug\DAO.pdb
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\bin\Debug\DTO.pdb
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\obj\Debug\BUS.dll
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\BUS\obj\Debug\BUS.pdb

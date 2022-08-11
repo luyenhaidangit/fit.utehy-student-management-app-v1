@@ -1,0 +1,17 @@
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\bin\Debug\StudentManagementFITUTEHY.exe.config
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\bin\Debug\StudentManagementFITUTEHY.exe
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\bin\Debug\StudentManagementFITUTEHY.pdb
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\bin\Debug\BUS.dll
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\bin\Debug\Common.dll
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\bin\Debug\DTO.dll
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\bin\Debug\DAO.dll
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\bin\Debug\BUS.pdb
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\bin\Debug\Common.pdb
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\bin\Debug\DTO.pdb
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\bin\Debug\DAO.pdb
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\obj\Debug\GUI.csproj.CopyComplete
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\obj\Debug\StudentManagementFITUTEHY.exe
+C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\StudentManagementFITUTEHY\obj\Debug\StudentManagementFITUTEHY.pdb
