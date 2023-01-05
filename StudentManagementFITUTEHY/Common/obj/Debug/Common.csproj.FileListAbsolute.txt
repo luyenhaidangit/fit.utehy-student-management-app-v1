@@ -1,9 +1,0 @@
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\Common\bin\Debug\Common.dll
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\Common\bin\Debug\Common.pdb
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\Common\obj\Debug\Common.csproj.AssemblyReference.cache
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\Common\obj\Debug\Common.dll
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\Common\obj\Debug\Common.pdb
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\Common\bin\Debug\DTO.dll
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\Common\bin\Debug\DTO.pdb
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\Common\obj\Debug\Common.csproj.CopyComplete

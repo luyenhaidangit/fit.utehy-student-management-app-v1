@@ -1,0 +1,14 @@
+125201|SEK18.1|Công Nghệ Web
+125202|SEK18.2|Công Nghệ Di Động
+125203|SEK18.3|Công Nghệ Di Động
+125204|SEK18.4|Công Nghệ Web
+125205|SEK18.5|Công Nghệ Di Động
+125206|SEK18.6|Kiểm Thử Phần Mềm
+125207|SEK18.7|Công Nghệ Web
+101201|IT18.1|Đồ Họa
+101202|IT18.2|Iot
+101203|IT18.3|Khoa Học Dữ Liệu
+125211|SEK19.1|Công Nghệ Web
+125212|SEK19.2|Công Nghệ Web
+125213|SEK19.3|Kiểm Thử Phần Mềm
+125208|SEK18.8|Kiểm Thử Phần Mềm

@@ -1,9 +1,0 @@
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\DAO\bin\Debug\DAO.dll
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\DAO\bin\Debug\DAO.pdb
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\DAO\bin\Debug\DTO.dll
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\DAO\bin\Debug\DTO.pdb
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\DAO\obj\Debug\DAO.csproj.CopyComplete
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\DAO\obj\Debug\DAO.dll
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManagementFITUTEHY\DAO\obj\Debug\DAO.pdb
