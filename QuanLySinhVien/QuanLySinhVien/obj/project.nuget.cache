@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "garh9tE+rG9DI1NTA29Cx8h9dxHctNZbAICFh3opvf2fHpLFxsnduS2x5NKJb1gS51z+RNV+5gHw6J+ptJlkAA==",
+  "dgSpecHash": "wMyE/N+x3agnBJhRQNFz1Sk975UVebHfc9D9etpB50hGbQaj3PMJVsZzXGRgJQfSrLmvSHtFAWILmOwaQLFCrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\OneDrive\\Máy tính\\Vớ vẩn\\QuanLySinhVien-20221012T142129Z-001\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\luyenhaidangit.github.io\\Student-Management-FIT.UTEHY-Console-App\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

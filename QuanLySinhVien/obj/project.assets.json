@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\luyenhaidangit.github.io\\Student-Management-FIT.UTEHY-Console-App\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien.csproj",
+      "projectUniqueName": "C:\\luyenhaidangit.github.io\\Student-Management-FIT.UTEHY-Console-App\\QuanLySinhVien\\QuanLySinhVien.csproj",
       "projectName": "QuanLySinhVien",
-      "projectPath": "C:\\luyenhaidangit.github.io\\Student-Management-FIT.UTEHY-Console-App\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien.csproj",
+      "projectPath": "C:\\luyenhaidangit.github.io\\Student-Management-FIT.UTEHY-Console-App\\QuanLySinhVien\\QuanLySinhVien.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\luyenhaidangit.github.io\\Student-Management-FIT.UTEHY-Console-App\\QuanLySinhVien\\QuanLySinhVien\\obj\\",
+      "outputPath": "C:\\luyenhaidangit.github.io\\Student-Management-FIT.UTEHY-Console-App\\QuanLySinhVien\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,6 +56,29 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.28, 3.1.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }

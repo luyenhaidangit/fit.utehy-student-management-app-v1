@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5Kc8Dk6kH9GWBahjcx0mSBq2Q7KmxbUfkDlCK/V0AGLjpAogjVV1zg5Cgpxorj7fJrCd3s6zJFFYGspJpL1eg==",
+  "success": true,
+  "projectFilePath": "C:\\luyenhaidangit.github.io\\Student-Management-FIT.UTEHY-Console-App\\QuanLySinhVien\\QuanLySinhVien.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
