@@ -16,17 +16,17 @@ namespace StudentManage.Service
 
         public bool Add(Class clas)
         {
-            throw new NotImplementedException();
+            return _classRepository.Add(clas);
         }
 
         public bool Delete(string id)
         {
-            throw new NotImplementedException();
+            return _classRepository.Delete(id);
         }
 
         public bool Edit(string id, Class clas)
         {
-            throw new NotImplementedException();
+            return _classRepository.Edit(id, clas);
         }
 
         public List<Class> GetAll()
@@ -36,7 +36,7 @@ namespace StudentManage.Service
 
         public bool SaveChanges(List<Class> classes)
         {
-            throw new NotImplementedException();
+            return _classRepository.SaveChanges(classes);
         }
     }
 }

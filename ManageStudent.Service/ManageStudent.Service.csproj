@@ -41,9 +41,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interface\IScoreService.cs" />
+    <Compile Include="Interface\IScheduleService.cs" />
+    <Compile Include="Interface\ISubjectService.cs" />
+    <Compile Include="Interface\ITeacherService.cs" />
+    <Compile Include="Interface\IStudentService.cs" />
     <Compile Include="Interface\IClassService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\ScoreService.cs" />
+    <Compile Include="Service\ScheduleService.cs" />
+    <Compile Include="Service\SubjectService.cs" />
+    <Compile Include="Service\TeacherService.cs" />
+    <Compile Include="Service\StudentService.cs" />
     <Compile Include="Service\ClassService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ManageStudent.Data\ManageStudent.Data.csproj">
+      <Project>{4499a533-74eb-4ae4-968d-29bd3695d721}</Project>
+      <Name>ManageStudent.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ManageStudent.Model\ManageStudent.Model.csproj">
+      <Project>{c7964a37-8c1a-4dbf-8021-08bd2bec1bd0}</Project>
+      <Name>ManageStudent.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

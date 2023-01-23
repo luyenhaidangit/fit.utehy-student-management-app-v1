@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace StudentManage.Data.Repository
 {
-    partial class ScheduleRepository : IScheduleRepository
+    public class ScheduleRepository : IScheduleRepository
     {
         private string dataSource = "Schedule.txt";
 

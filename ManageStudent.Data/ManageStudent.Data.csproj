@@ -55,5 +55,14 @@
     <Compile Include="Repository\SubjectRepository.cs" />
     <Compile Include="Repository\TeacherRepository.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ManageStudent.Model\ManageStudent.Model.csproj">
+      <Project>{c7964a37-8c1a-4dbf-8021-08bd2bec1bd0}</Project>
+      <Name>ManageStudent.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
