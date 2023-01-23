@@ -1,6 +1,0 @@
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Model\obj\Debug\StudentManage.Model.csproj.AssemblyReference.cache
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Model\obj\Debug\StudentManage.Model.csproj.CoreCompileInputs.cache
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Model\bin\Debug\StudentManage.Model.dll
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Model\bin\Debug\StudentManage.Model.pdb
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Model\obj\Debug\StudentManage.Model.dll
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Model\obj\Debug\StudentManage.Model.pdb

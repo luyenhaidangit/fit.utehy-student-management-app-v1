@@ -1,7 +1,0 @@
-HDT|Hướng Đối tượng|4
-DA1|Đồ Án 1|3
-CSDL|Cơ Sở Dữ Liệu|4
-TH|Triết Học|3
-GDTC|Giáo Dục Thể Chất|1
-TLHKS|Tâm Lý Học Kỹ Sư|2
-XSTK|Xác Suất Thống Kê|2

@@ -1,8 +1,0 @@
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Console\bin\Debug\StudentManage.Console.exe.config
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Console\bin\Debug\StudentManage.Console.exe
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Console\bin\Debug\StudentManage.Console.pdb
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Console\obj\Debug\StudentManage.Console.csproj.AssemblyReference.cache
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Console\obj\Debug\StudentManage.Console.csproj.SuggestedBindingRedirects.cache
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Console\obj\Debug\StudentManage.Console.csproj.CoreCompileInputs.cache
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Console\obj\Debug\StudentManage.Console.exe
-C:\luyenhaidangit.github.io\Student-Management-FIT.UTEHY-Console-App\StudentManage.Console\obj\Debug\StudentManage.Console.pdb
