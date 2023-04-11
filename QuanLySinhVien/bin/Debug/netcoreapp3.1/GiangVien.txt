@@ -1,0 +1,12 @@
+1221|Nguyễn Hữu Đông|Nam|Hưng Yên|11/06/1975|0395500100
+1222|Ngô Thanh Huyền|Nữ|Hưng Yên|15/10/1974|0982713518
+1223|Trịnh Thị Nhị|Nữ|Hưng Yên|10/06/1975|0922002360
+1224|Nguyễn Văn Quyết|Nam|Hà Nội|14/10/1975|0912188636
+1225|Chu Thị Minh Huệ|Nữ|Hưng Yên|06/10/1977|0982817392
+1226|Đỗ Thị Thu Trang|Nữ|Bắc Ninh|04/10/1977|0696911336
+1227|Đăng Vân Anh|Nữ|Hưng Yên|14/07/1977|1234567890
+1228|Nguyễn Thế Khiêm|Nam|Hà Nội|10/06/1975|0922002360
+1229|Phan Thị Cảnh|Nữ|Hưng Yên|11/09/1975|0321654987
+1230|Nguyễn Văn Hùng|Nam|Hưng Yên|14/06/1975|9876543210
+1231|Ngô Lan Anh|Nữ|Hưng Yên|17/05/1975|1234567890
+1232|Nguyễn Thanh Cảnh|Nữ|Hưng Yên|10/06/1975|0933265478
